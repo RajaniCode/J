@@ -42,5 +42,5 @@ Credits
 [postman.com](https://postman.com/)  
 [docs.oracle.com](https://docs.oracle.com/)  
 [dev.java](https://dev.java/)  
-[rules.sonarsource.com/java/ ](https://rules.sonarsource.com/java/)  
-[rules.sonarsource.com/scala/](https://rules.sonarsource.com/scala/)
+[rules.sonarsource.com/java](https://rules.sonarsource.com/java/)  
+[rules.sonarsource.com/scala](https://rules.sonarsource.com/scala/)
