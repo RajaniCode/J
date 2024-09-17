@@ -32,7 +32,7 @@ Credits
 [jython.org](https://jython.org/)  
 [jruby.org](https://jruby.org/)  
 [dotnet.microsoft.com](https://dotnet.microsoft.com/)  
-[ruby-lang.or](https://ruby-lang.org/)  
+[ruby-lang.org](https://ruby-lang.org/)  
 [php.net](https://php.net/)  
 [getbootstrap.com](https://getbootstrap.com/)  
 [eclipse.org](https://eclipse.org/)  
