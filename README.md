@@ -17,7 +17,7 @@ Credits
 -------
 [openjdk.org](https://openjdk.org/)  
 [java.com](https://java.com/)  
-[oracle.com](https://oracle.com/)  
+[oracle.com/java](https://oracle.com/java/)  
 [microsoft.com/openjdk](https://microsoft.com/openjdk/)  
 [spring.io](https://spring.io/)  
 [hibernate.org](https://hibernate.org/)  
