@@ -20,7 +20,7 @@ Credits/openjdk.org.svg?raw=true)](https://openjdk.org/)
 [![image](
 Credits/Java-oracle.com.svg?raw=true)](https://oracle.com/java/)  
 [![image](
-Credits/OpenJDK-microsoft.com.svg?raw=true)](https://microsoft.com/openkdk/)  
+Credits/OpenJDK-microsoft.com.svg?raw=true)](https://microsoft.com/openjdk/)  
 [![image](
 Credits/maven.apache.org.svg?raw=true)](https://maven.apache.org/)  
 [![image](
