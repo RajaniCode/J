@@ -72,6 +72,8 @@ Credits/gradle.com.svg?raw=true)](https://gradle.com/)
 [![image](
 Credits/junit.org.svg?raw=true)](https://junit.org/)  
 [![image](
+Credits/logging.apache.org.svg?raw=true)](https://logging.apache.org/)  
+[![image](
 Credits/uml.org.svg?raw=true)](https://uml.org/)  
 [![image](
 Credits/umlet.com.svg?raw=true)](https://umlet.com/)  
