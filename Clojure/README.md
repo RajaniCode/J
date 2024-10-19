@@ -2,7 +2,7 @@ Clojure
 -------
 
 - Clojure
-  
+
 Credits
 -------
 [![image](
