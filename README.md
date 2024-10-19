@@ -56,9 +56,13 @@ Credits/dotnet.microsoft.com.svg?raw=true)](https://dotnet.microsoft.com/)
 [![image](
 Credits/ruby-lang.org.svg?raw=true)](https://ruby-lang.org/)  
 [![image](
+Credits/rubygems.org.svg?raw=true)](https://rubygems.org/)  
+[![image](
 Credits/jruby.org.svg?raw=true)](https://jruby.org/)  
 [![image](
 Credits/php.net.svg?raw=true)](https://php.net/)  
+[![image](
+Credits/getcomposer.org.svg?raw=true)](https://getcomposer.org)  
 [![image](
 Credits/maven.apache.org.svg?raw=true)](https://maven.apache.org/)  
 [![image](
