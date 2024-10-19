@@ -86,8 +86,6 @@ Credits/jetbrains.com.svg?raw=true)](https://jetbrains.com/)
 [![image](
 Credits/netbeans.apache.org.svg?raw=true)](https://netbeans.apache.org/)  
 [![image](
-Credits/netbeans.apache.org.svg?raw=true)](https://netbeans.apache.org/)  
-[![image](
 Credits/Java-docs.oracle.com.svg?raw=true)](https://docs.oracle.com/java/)  
 [![image](
 Credits/Java-static-code-analysis-rules.sonarsource.com.svg?raw=true)](https://rules.sonarsource.com/java/)
