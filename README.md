@@ -70,6 +70,12 @@ Credits/gradle.org.svg?raw=true)](https://gradle.org/)
 [![image](
 Credits/gradle.com.svg?raw=true)](https://gradle.com/)  
 [![image](
+Credits/junit.org.svg?raw=true)](https://junit.org/)  
+[![image](
+Credits/uml.org.svg?raw=true)](https://uml.org/)  
+[![image](
+Credits/umlet.com.svg?raw=true)](https://umlet.com/)  
+[![image](
 Credits/postman.com.svg?raw=true)](https://postman.com/)  
 [![image](
 Credits/eclipseide.org.svg?raw=true)](https://eclipseide.org/)  
