@@ -32,7 +32,7 @@ Credits/tomcat.apache.org.svg?raw=true)](https://tomcat.apache.org/)
 [![image](
 Credits/scala-lang.org.svg?raw=true)](https://scala-lang.org/)  
 [![image](
-Credits/clojure1.org.svg?raw=true)](https://clojure.org/)  
+Credits/clojure.org.svg?raw=true)](https://clojure.org/)  
 [![image](
 Credits/gcc.gnu.org.svg?raw=true)](https://gcc.gnu.org/)  
 [![image](
