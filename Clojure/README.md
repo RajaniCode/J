@@ -6,6 +6,7 @@ Clojure
 Credits
 -------
 [![image](
-Credits/clojure.org.svg?raw=true)](https://clojure.org/)  
+Credits/clojurescript.org.svg?raw=true)](https://clojurescript.org/)  
 [![image](
-Credits/clojurescript.org.svg?raw=true)](https://clojurescript.org/)
+Credits/clojure.org.svg?raw=true)](https://clojure.org/)  
+
