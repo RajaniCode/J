@@ -15,6 +15,20 @@ Java
 
 Credits
 -------
+[![image](
+Credits/openjdk.org.svg?raw=true)](https://openjdk.org/)  
+[![image](
+Credits/Java-oracle.com.svg?raw=true)](https://oracle.com/java/)  
+[![image](
+Credits/OpenJDK-microsoft.com.svg?raw=true)](https://microsoft.com/openkdk/)  
+[![image](
+Credits/maven.apache.org.svg?raw=true)](https://maven.apache.org/)  
+[![image](
+Credits/gradle.org.svg?raw=true)](https://gradle.org/)  
+[![image](
+Credits/gradle.com.svg?raw=true)](https://gradle.com/)  
+
+
 [openjdk.org](https://openjdk.org/)  
 [java.com](https://java.com/)  
 [oracle.com/java](https://oracle.com/java/)  
