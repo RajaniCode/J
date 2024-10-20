@@ -34,8 +34,6 @@ Credits/scala-lang.org.svg?raw=true)](https://scala-lang.org/)
 [![image](
 Credits/clojure.org.svg?raw=true)](https://clojure.org/)  
 [![image](
-Credits/gcc.gnu.org.svg?raw=true)](https://gcc.gnu.org/)  
-[![image](
 Credits/nodejs.org.svg?raw=true)](https://nodejs.org/)  
 [![image](
 Credits/npmjs.com.svg?raw=true)](https://npmjs.com/)  
@@ -63,6 +61,8 @@ Credits/jruby.org.svg?raw=true)](https://jruby.org/)
 Credits/php.net.svg?raw=true)](https://php.net/)  
 [![image](
 Credits/getcomposer.org.svg?raw=true)](https://getcomposer.org)  
+[![image](
+Credits/gcc.gnu.org.svg?raw=true)](https://gcc.gnu.org/)  
 [![image](
 Credits/maven.apache.org.svg?raw=true)](https://maven.apache.org/)  
 [![image](
