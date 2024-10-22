@@ -8,4 +8,4 @@ Credits
 [![image](
 Credits/clojure.org.svg)](https://clojure.org/)  
 [![image](
-Credits/clojurescrip1t.org.svg)](https://clojurescript.org/)
+Credits/clojurescript.org.svg)](https://clojurescript.org/)
