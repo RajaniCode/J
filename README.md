@@ -82,7 +82,7 @@ Credits/postman.com.svg)](https://postman.com/)
 [![image](
 Credits/eclipseide.org.svg)](https://eclipseide.org/)  
 [![image](
-Credits/IntelliJ-IDEA-jetbrains.com.svg)](https://jetbrains.com/)  
+Credits/IntelliJ-IDEA-jetbrains.com.svg)](https://jetbrains.com/idea/)  
 [![image](
 Credits/netbeans.apache.org.svg)](https://netbeans.apache.org/)  
 [![image](
