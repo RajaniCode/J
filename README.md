@@ -50,7 +50,9 @@ Credits/pypi.org.svg)](https://pypi.org/)
 [![image](
 Credits/jython.org.svg)](https://jython.org/)  
 [![image](
-Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
+Credits/microsoft.com.svg)](https://microsoft.com/)  
+[![image](
+Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
 Credits/ruby-lang.org.svg)](https://ruby-lang.org/)  
 [![image](
