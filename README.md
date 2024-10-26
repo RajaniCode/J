@@ -43,6 +43,8 @@ Credits/nodejs.org.svg)](https://nodejs.org/)
 [![image](
 Credits/npmjs.com.svg)](https://npmjs.com/)  
 [![image](
+Credits/pnpm.io.svg)](https://pnpm.io/)  
+[![image](
 Credits/jquery.com.svg)](https://jquery.com/)  
 [![image](
 Credits/developer.mozilla.org.svg)](https://developer.mozilla.org/)  
@@ -61,6 +63,8 @@ Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)-->
 Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
 Credits/CS-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/languages/csharp/)  
+[![image](
+Credits/nuget.org.svg)](https://nuget.org/)  
 [![image](
 Credits/ruby-lang.org.svg)](https://ruby-lang.org/)  
 [![image](
