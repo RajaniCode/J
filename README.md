@@ -100,6 +100,8 @@ Credits/centos.org.svg)](https://centos.org/)
 [![image](
 Credits/chromebook.com.svg)](https://chromebook.com/)  
 [![image](
+Credits/debian.org.svg)](https://debian.org/)  
+[![image](
 Credits/eclipse.org.svg)](https://eclipse.org/)  
 [![image](
 Credits/eclipseide.org.svg)](https://eclipseide.org/)<!--[![image](
