@@ -98,6 +98,8 @@ Credits/postman.com.svg)](https://postman.com/)
 [![image](
 Credits/centos.org.svg)](https://centos.org/)  
 [![image](
+Credits/chromebook.com.svg)](https://chromebook.com/)  
+[![image](
 Credits/eclipse.org.svg)](https://eclipse.org/)  
 [![image](
 Credits/eclipseide.org.svg)](https://eclipseide.org/)<!--[![image](
