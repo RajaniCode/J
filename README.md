@@ -100,7 +100,11 @@ Credits/centos.org.svg)](https://centos.org/)
 [![image](
 Credits/debian.org.svg)](https://debian.org/)  
 [![image](
+Credits/lxde.org.svg)](https://lxde.org/)  
+[![image](
 Credits/chromebook.com.svg)](https://chromebook.com/)  
+[![image](
+Credits/chromium.org.svg)](https://chromium.org/)  
 [![image](
 Credits/eclipse.org.svg)](https://eclipse.org/)  
 [![image](
