@@ -59,10 +59,12 @@ Credits/jython.org.svg)](https://jython.org/)
 [![image](
 Credits/CS.NET-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)  
 [![image](
-Credits/CS-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/languages/csharp/)  
-[![image](
-Credits/microsoft.com.svg)](https://microsoft.com/)<!--[![image](
+Credits/CS-dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/languages/csharp/)<!--[![image](
 Credits/dotnet.microsoft.com.svg)](https://dotnet.microsoft.com/)-->  
+[![image](
+Credits/developer.microsoft.com.svg)](https://developer.microsoft.com/)  
+[![image](
+Credits/microsoft.com.svg)](https://microsoft.com/)  
 [![image](
 Credits/nuget.org.svg)](https://nuget.org/)  
 [![image](
