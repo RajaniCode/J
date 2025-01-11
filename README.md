@@ -15,6 +15,8 @@ Java
 
 - Clojure
 
+- Hibernate
+
 Credits
 -------
 [![image](
