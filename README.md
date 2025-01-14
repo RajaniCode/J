@@ -24,9 +24,7 @@ Credits/openjdk.org.svg)](https://openjdk.org/)
 [![image](
 Credits/Java-oracle.com.svg)](https://oracle.com/java/)  
 [![image](
-Credits/OpenJDK-microsoft.com.svg)](https://microsoft.com/openjdk/)  
-[![image](
-Credits/graalvm.org.svg)](https://graalvm.org/)<!--[![image](
+Credits/OpenJDK-microsoft.com.svg)](https://microsoft.com/openjdk/)<!--[![image](
 Credits/java.com.svg)](https://java.com/)  
 [![image](
 Credits/dev.java.svg)](https://dev.java/)  
@@ -36,6 +34,8 @@ Credits/inside.java.svg)](https://inside.java/)-->
 Credits/spring.io.svg)](https://spring.io/)  
 [![image](
 Credits/Spring-Boot-spring.io.svg)](https://spring.io/projects/spring-boot/)  
+[![image](
+Credits/graalvm.org.svg)](https://graalvm.org/)  
 [![image](
 Credits/hibernate.org.svg)](https://hibernate.org/)  
 [![image](
@@ -133,11 +133,11 @@ Credits/netbeans.apache.org.svg)](https://netbeans.apache.org/)
 [![image](
 Credits/Java-docs.oracle.com.svg)](https://docs.oracle.com/java/)  
 [![image](
-Credits/GraalVM-docs.oracle.com.svg)](https://docs.oracle.com/en/graalvm/)  
-[![image](
 Credits/docs.spring.io.svg)](https://docs.spring.io/)  
 [![image](
 Credits/Spring-Boot-docs.spring.io.svg)](https://docs.spring.io/spring-boot/)  
+[![image](
+Credits/GraalVM-docs.oracle.com.svg)](https://docs.oracle.com/en/graalvm/)  
 [![image](
 Credits/GraalVM-Docs-graalvm.org.svg)](https://graalvm.org/latest/docs/)  
 [![image](
