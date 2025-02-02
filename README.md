@@ -141,7 +141,7 @@ Credits/IntelliJ-IDEA-jetbrains.com.svg)](https://jetbrains.com/idea/)
 [![image](
 Credits/netbeans.apache.org.svg)](https://netbeans.apache.org/)  
 [![image](
-Credits/start.spring.io.svg)](https://start.spring.io/) 
+Credits/start.spring.io.svg)](https://start.spring.io/)  
 [![image](
 Credits/Java-docs.oracle.com.svg)](https://docs.oracle.com/java/)  
 [![image](
